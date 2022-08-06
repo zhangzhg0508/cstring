@@ -48,3 +48,4 @@ uint32_t cstring_hash(cstring s);
 CSTRING_LITERAL(var, literal) 可以声明一个常量 cstring 。这里 literal 必须是一个 " 引起的字符串常量。
 
 
+ok
